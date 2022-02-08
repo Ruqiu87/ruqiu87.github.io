@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ruqiu87.github.io</id>
+    <id>http://localhost:4000</id>
     <title>汝秋的博客</title>
-    <updated>2022-02-08T16:18:32.186Z</updated>
+    <updated>2022-02-08T16:40:43.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ruqiu87.github.io"/>
-    <link rel="self" href="https://ruqiu87.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>人生就是一个不断学习的过程</subtitle>
-    <logo>https://ruqiu87.github.io/images/avatar.png</logo>
-    <icon>https://ruqiu87.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, 汝秋的博客</rights>
 </feed>
